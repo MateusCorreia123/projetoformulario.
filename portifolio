@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <input list="browsers" type="search" name="search"/>
+    <datalist id="browsers"> 
+        <option value="">Selecione um Navegador</option>
+        <option>google chrome</option>
+        <option>Mozila firefox</option>
+        <option>microsoft edge</option>
+        <option>safari</option>
+        <option>opera</option>
+    </datalist>
+
+     
+
+    <select name="" id="">
+        <option value="">Selecione um Navegador</option>
+        <option value="chrome">google chrome</option>
+        <option value="firefox">Mozila firefox</option>
+        <option value="edge">microsoft edge</option>
+        <option value="safari">safari</option>
+        <option value="opera">opera</option>
+    </select>
+
+    
+    
+</body>
+</html>
